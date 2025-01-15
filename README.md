@@ -1,5 +1,7 @@
 # Hi, I'm Gabriel Caetano
 
+I am a **Control and Automation Engineering** student at the **Federal University of Santa Catarina (UFSC)**, currently in my seventh semester, with a strong focus on **Machine Learning**. My experience includes programming in **Python**, data processing, and model evaluation, primarily using tools such as **TensorFlow**, **Keras**, **Pandas**, **NumPy**, and **Scikit-learn**.
+
 - 🌱 I’m currently learning **Machine Learning**, **Artificial Intelligence**, **Docker**, and **MLOps**
 - 📫 How to reach me: [caetanooG@outlook.com](mailto:caetanooG@outlook.com)
 
