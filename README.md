@@ -4,16 +4,14 @@ I am a **Control and Automation Engineering** student at the **Federal Universit
 
 - 🌱 I’m currently learning **Machine Learning**, **Artificial Intelligence**, **Docker**, and **MLOps**
 - 📫 How to reach me: [caetanooG@outlook.com](mailto:caetanooG@outlook.com)
-
-<div style="display: flex; justify-content: center; gap: 20px;">
+- 
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Caetanoog18&show_icons=true&theme=dracula" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanoog18&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caetanoog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Caetanoog-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caetanoog-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caetanoog-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Caetanoog-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Caetanoog-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
