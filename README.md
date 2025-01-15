@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Gabriel Caetano de Oliveira
 
-<!--
-**Caetanoog18/Caetanoog18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Control and Automation Engineering** student at the **Federal University of Santa Catarina (UFSC)**, currently in my seventh semester, with a strong focus on **Machine Learning**. My experience includes programming in **Python**, data processing, and model evaluation, primarily using tools such as **TensorFlow**, **Keras**, **Pandas**, **NumPy**, and **Scikit-learn**.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine Learning**, **Artificial Intelligence** and **MLOps**
+- 📫 How to reach me: [caetanooG@outlook.com](mailto:caetanooG@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/Caetanoog18">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Caetanoog18&show_icons=true&theme=dracula" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caetanoog18&layout=compact&langs_count=16&theme=dracula" />
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Caetanoog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Caetanoog-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Caetanoog-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Caetanoog-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Caetanoog-TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Caetanoog-PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Caetanoog-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Caetanoog-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Caetanoog-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+</div>
+</div>
