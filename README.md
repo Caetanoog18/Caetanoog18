@@ -4,7 +4,7 @@
 - 📫 How to reach me: [caetanooG@outlook.com](mailto:caetanooG@outlook.com)
 
 <div>
-  <a href="https://github.com/CaetanoGS/CaetanoGS">
+  <a href="https://github.com/Caetanoog18/Caetanoog18">
   <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula">
   <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=16&theme=dracula">
 </div>
