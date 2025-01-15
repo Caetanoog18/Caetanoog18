@@ -7,8 +7,8 @@ I am a **Control and Automation Engineering** student at the **Federal Universit
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <a href="https://github.com/Caetanoog18/Caetanoog18">
-    <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula">
-    <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=6&theme=dracula&hide=html,css">
+    <img height='180em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula">
+    <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=6&theme=dracula&hide=html,css">
   </a>
 </div>
 <div style="display: inline_block"><br>
