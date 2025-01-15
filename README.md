@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/Caetanoog18/Caetanoog18">
     <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula">
-    <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=16&theme=dracula">
+    <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=6&theme=dracula&hide=html,css">
   </a>
 </div>
 <div style="display: inline_block"><br>
