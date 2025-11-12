@@ -27,7 +27,6 @@ Here are a few of the things I do best:
   <img align="center" alt="Caetanoog-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Caetanoog-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Caetanoog-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Caetanoog-H2" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-h2-a-relational-database-management-system-written-in-java-logo-color-tal-revivo.png">
   <img align="center" alt="Caetanoog-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Caetanoog-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Caetanoog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
