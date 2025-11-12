@@ -18,20 +18,21 @@ Below are some of the key areas where I have the most experience and confidence:
 | <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula"> | <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=6&theme=dracula&hide=html,css"> |
 |---|---|
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Caetanoog-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Caetanoog-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Caetanoog-Hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
-  <img align="center" alt="Caetanoog-Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <img align="center" alt="Caetanoog-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Caetanoog-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Caetanoog-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Caetanoog-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Caetanoog-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Caetanoog-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img align="center" alt="Caetanoog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Caetanoog-FastAPI" height="30" width="40" src="https://avatars.githubusercontent.com/u/57060854?s=200&v=4">
-  <img align="center" alt="Caetanoog-Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
-  <img align="center" alt="Caetanoog-TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Caetanoog-PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"><br>
+  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="Hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg">
+  <img alt="Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img alt="H2" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-h2-a-relational-database-management-system-written-in-java-logo-color-tal-revivo.png">
+  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="FastAPI" height="30" width="40" src="https://avatars.githubusercontent.com/u/57060854?s=200&v=4">
+  <img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img alt="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img alt="PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
 </div>
