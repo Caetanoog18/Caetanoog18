@@ -1,6 +1,6 @@
 # Hi, I'm Gabriel Caetano
 
-I am a Control and Automation Engineering student at the Federal University of Santa Catarina (UFSC), currently in my eighth semester. I have solid experience in Java backend development, working with Spring Boot, Hibernate, Maven, and Microservices. I also work with Python, especially using FastAPI and Django to build APIs, and have experience in data engineering and machine learning using tools like Meltano, Embulk, Docker, and Kubernetes.
+I am a Control and Automation Engineering student at the Federal University of Santa Catarina (UFSC), currently in my eighth semester. I have strong experience in backend development with Java, working with Spring Boot, Hibernate, Maven, and microservice architectures. In addition, I develop APIs in Python using FastAPI and have practical experience in data engineering and machine learning, leveraging tools such as Meltano, Embulk, Airflow, Docker, and Kubernetes to orchestrate and build scalable, automated data pipelines.
 
 As a software engineer, I combine the reliability of the Java ecosystem with the flexibility of Python to build fast, scalable, and easy-to-maintain backend systems.
 
