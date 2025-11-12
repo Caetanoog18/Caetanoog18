@@ -31,7 +31,7 @@ Below are some of the key areas where I have the most experience and confidence:
   <img align="center" alt="Caetanoog-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Caetanoog-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caetanoog-FastAPI" height="30" width="40" src="https://avatars.githubusercontent.com/u/57060854?s=200&v=4">
-  <img align="center" alt="Caetanoog-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="Caetanoog-Django" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/django.svg">
   <img align="center" alt="Caetanoog-TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="Caetanoog-PyTorch" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
 </div>
