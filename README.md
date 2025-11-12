@@ -12,7 +12,7 @@ Below are some of the key areas where I have the most experience and confidence:
 - Write clean, modular, and testable code in both Java and Python
 - Work in agile teams and implement CI/CD pipelines to deliver code faster and safer
 
-- 🌱 I'm currently focusing on improving my skills in Java backend, Spring Boot, and microservices
+- I'm currently focusing on improving my skills in Java backend, Spring Boot, and microservices
 - 📩 Reach me at: [caetanoog@outlook.com](mailto:caetanoog@outlook.com)
 
 | <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula"> | <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=6&theme=dracula&hide=html,css"> |
