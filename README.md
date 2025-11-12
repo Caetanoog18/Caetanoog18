@@ -1,19 +1,19 @@
 # Hi, I'm Gabriel Caetano
 
-I am a **Control and Automation Engineering** student at the **Federal University of Santa Catarina (UFSC)**, currently in my eighth semester. I have solid experience in **Java backend development**, working with **Spring Boot**, **Hibernate**, **Maven**, and **Microservices**. I also have strong skills in **Python**, particularly in **FastAPI** and **Django** for building APIs, along with experience in **Data Engineering** and **Machine Learning** using tools like **Meltano**, **Embulk**, **Docker** and **Kubernetes**.
+I am a Control and Automation Engineering student at the Federal University of Santa Catarina (UFSC), currently in my eighth semester. I have solid experience in Java backend development, working with Spring Boot, Hibernate, Maven, and Microservices. I also work with Python, especially using FastAPI and Django to build APIs, and have experience in data engineering and machine learning using tools like Meltano, Embulk, Docker, and Kubernetes.
 
-As a Software Engineer, I combine the reliability of the Java ecosystem with the flexibility of Python to deliver efficient, scalable, and maintainable backend systems.
+As a software engineer, I combine the reliability of the Java ecosystem with the flexibility of Python to build fast, scalable, and easy-to-maintain backend systems.
 
-Here are a few of the things I do best:
-- Build RESTful APIs using **Spring Boot**, **Django**, and **FastAPI**, with a focus on performance and clean architecture
-- Design and maintain microservices using **Java**, with database integration via **Hibernate**, and support for **PostgreSQL**, **MySQL**, **Oracle**, **SQL Server**, and **H2**
-- Create and deploy containerized apps using **Docker**, orchestrated with **Kubernetes** in cloud-native environments
-- Extract and automate data workflows with **Meltano** and **Embulk**, and orchestrate complex pipelines using **Apache Airflow** (certified)
-- Write modular, maintainable, and testable backend code in both Java and Python
-- Collaborate in agile teams and implement CI/CD pipelines for rapid and safe delivery
+Below are some of the key areas where I have the most experience and confidence:
+- Build RESTful APIs using Spring Boot, Django, and FastAPI, focusing on performance and clean architecture
+- Design and maintain microservices with Java, integrating with databases using Hibernate, and supporting PostgreSQL, MySQL, Oracle, SQL Server, and H2
+- Develop and deploy containerized applications with Docker, orchestrated using Kubernetes in cloud environments
+- Create and automate data extraction workflows using Meltano and Embulk, and manage orchestration with Apache Airflow (certified)
+- Write clean, modular, and testable code in both Java and Python
+- Work in agile teams and implement CI/CD pipelines to deliver code faster and safer
 
-- 🌱 I’m currently expanding my skills in **Java Backend**, **Spring Boot**, and **Microservices**
-- 📫 How to reach me: [caetanooG@outlook.com](mailto:caetanooG@outlook.com)
+- 🌱 I'm currently focusing on improving my skills in Java backend, Spring Boot, and microservices
+- 📩 Reach me at: [caetanooG@outlook.com](mailto:caetanooG@outlook.com)
 
 | <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula"> | <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=6&theme=dracula&hide=html,css"> |
 |---|---|
