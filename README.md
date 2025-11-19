@@ -15,12 +15,7 @@ Below are some of the key areas where I have the most experience and confidence:
 - I'm currently focusing on improving my skills in Java backend, Spring Boot, and microservices
 - 📩 Reach me at: [caetanoog@outlook.com](mailto:caetanoog@outlook.com)
 
-### 🧠 Main Languages
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+<img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&langs_count=6&theme=dracula&hide=html,css,jupyter notebook,makefile,shell">
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"><br>
