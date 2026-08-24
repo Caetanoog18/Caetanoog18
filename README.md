@@ -15,7 +15,7 @@ Below are some of the key areas where I have the most experience and confidence:
 - I'm currently focusing on improving my skills in Java backend, Spring Boot, and microservices
 - 📩 Reach me at: [caetanoog@outlook.com](mailto:caetanoog@outlook.com)
 
-| <img height='200em' src="https://github-readme-stats.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula"> | <img height='200em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&theme=dracula&hide=sourcepawn,bitbake,yacc,html,css,scss,makefile,jupyter%20notebook,shell,batchfile,powershell,cmake,handlebars,go,ruby,swift,rust,kotlin,typescript,php,objective-c,assembly,fortran,elixir,erlang,haskell,lua,matlab,scala,verilog,vhdl,r,tex,clojure,dart,coffeescript,perl"> |
+| <img height="200em" src="https://github-stats-extended.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula"> | <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&theme=dracula&hide=sourcepawn,bitbake,yacc,html,css,scss,makefile,jupyter%20notebook,shell,batchfile,powershell,cmake,handlebars,go,ruby,swift,rust,kotlin,typescript,php,objective-c,assembly,fortran,elixir,erlang,haskell,lua,matlab,scala,verilog,vhdl,r,tex,clojure,dart,coffeescript,perl"> |
 |---|---|
 
 
