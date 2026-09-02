@@ -18,8 +18,6 @@ Below are some of the key areas where I have the most experience and confidence:
 | <img height="200em" src="https://github-stats-extended.vercel.app/api?username=caetanoog18&show_icons=true&theme=dracula"> | <img height="200em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caetanoog18&layout=compact&theme=dracula&hide=sourcepawn,bitbake,yacc,html,css,scss,makefile,jupyter%20notebook,shell,batchfile,powershell,cmake,handlebars,go,ruby,swift,rust,kotlin,typescript,php,objective-c,assembly,fortran,elixir,erlang,haskell,lua,matlab,scala,verilog,vhdl,r,tex,clojure,dart,coffeescript,perl"> |
 |---|---|
 
-
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;"><br>
   <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
